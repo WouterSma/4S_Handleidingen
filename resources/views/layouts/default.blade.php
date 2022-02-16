@@ -10,7 +10,7 @@
 @include('includes.navbar')
 
 <div class="container">
-    <div class="row">
+    <div class="row" style="display: flex; justify-content: center;">
 
         <div class="col-md-8">
             @include('includes.header')
