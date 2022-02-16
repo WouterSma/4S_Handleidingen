@@ -1,6 +1,6 @@
 
 <footer>
-	© {{ __('misc.copyright') }}
+	© Copyright 2021 Avarix
 </footer>
 
 
