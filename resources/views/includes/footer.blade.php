@@ -1,6 +1,26 @@
 
 <footer>
-	© Copyright 2021 Avarix
+  <div class="footer_flexbox">
+    <div class="footer_item">
+      © Copyright 2021 Avarix
+    </div>
+    <div class="footer_item">
+      Over Ons:<br>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida interdum justo vitae euismod.
+    </div>
+    <div class="footer_item">
+      Contactgegevens:<br>
+      Lorem ipsum<br>
+      dolor sit amet<br>
+      consectetur<br>
+    </div>
+    <div class="footer_item">
+      Social Links:<br>
+      @gravida<br>
+      interdum justo<br>
+      vitae euismod<br>
+    </div>
+  </div>
 </footer>
 
 
