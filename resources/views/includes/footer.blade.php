@@ -10,9 +10,9 @@
     </div>
     <div class="footer_item">
       Contactgegevens:<br>
-      Lorem ipsum<br>
-      dolor sit amet<br>
-      consectetur<br>
+      Straatnaam 1234<br>
+      Postcode 4321 AB<br>
+      Plaatsnaam<br>
     </div>
     <div class="footer_item">
       Social Links:<br>
